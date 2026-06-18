@@ -20,6 +20,7 @@ patrick.maze@gmail.com
 
 - Exercise1 [Part1](exercise1_part1.md)
 - Exercise1 [Part2](exercise1_part2.md)
+- Exercise1 [Part3](exercise1_part3.md)
 - Exercise2
 
 

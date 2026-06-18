@@ -21,3 +21,9 @@ patrick.maze@gmail.com
 - Exercise1 [Part1](exercise1_part1.md)
 - Exercise1 [Part2](exercise1_part2.md)
 - Exercise2
+
+
+## Echte Informationen zum Autor
+Link zur GitHub [Profilseite](https://github.com/Patrick5435/patrick5435.github.io.git)
+Link zu ihrer [Hochschule](https://www.campus02.at)
+Version 1.0

@@ -2,7 +2,7 @@
 
 ## Beispiel für den Output
 
-![Beispiel](maze.png)
+![Beispiel](./resources/images/maze.png)
 
 ## Hilfe
 

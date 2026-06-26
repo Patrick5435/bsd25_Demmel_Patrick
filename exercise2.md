@@ -1,14 +1,19 @@
-# Details zu dem Programm
+# Dokumentation
 
-## Beispiel für den Output
+## JAVA HOME und Pfade gesetzt
 
-![Beispiel](./resources/images/maze.png)
+JAVAHOME hinzugefügt und pfade für Maven und JDK gesetzt
 
-## Hilfe
+Versionen überprüft und in Uebung2.docx dokumentiert.
 
-Anbei eine kurze Erklärung
+Branch init_project und maven project erstellt
 
-Ein Labyrinth hat immer einen Start- und Endpunkt.
+.idea ordner zu .gitignore hinzugefügt
 
-Für zusätzliche Hilfe besuchen Sie folgende [Webseite](https://de.wikipedia.org/wiki/Labyrinth).
+änderungen mit git add hinzugefügt und mit git commit -m confirmed
 
+Branch ist sichtbar und wurde nun mit main gemerged
+
+Nach dem ausführen von Calculator java wurde der Ordner "target" automatisch erstellt
+
+screenshot erstellt und in resources/images gespeichert ex2_1.png

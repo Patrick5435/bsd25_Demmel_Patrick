@@ -1,4 +1,4 @@
-package org.example;
+package at.campus02.bsd;
 
 import at.campus02.bsd.Calculator;
 

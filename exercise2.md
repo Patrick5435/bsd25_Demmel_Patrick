@@ -28,3 +28,17 @@ Beim ändern der Pom.xml konnte ich nur 3.13.0 als aktuellste version aussuchen.
 mvn compile erfolgreich und in ex2_2.png gespeichert
 
 In main klasse ausgabe von Vor-Nachname hinzugefügt nochmal mit mvn exec:java ausgeführt und unter ex2_3.png gespeichert
+
+Calculator branch merged mit main
+
+## Neue branch "logging"
+
+ .gitignore erweitert mit *.log
+dependencies in pom.xml erweitert
+Imports und Logger in main klasse hinzugefügt
+2 log nachrichten ausgegeben. 1. Info und 2. Error
+
+in der Konsole wurde nur der error ausgegeben aber nicht info!
+Screenshot unter ex2_4.png gespeichert!
+
+

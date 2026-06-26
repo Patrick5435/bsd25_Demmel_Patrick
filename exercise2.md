@@ -37,8 +37,14 @@ Calculator branch merged mit main
 dependencies in pom.xml erweitert
 Imports und Logger in main klasse hinzugefügt
 2 log nachrichten ausgegeben. 1. Info und 2. Error
-
 in der Konsole wurde nur der error ausgegeben aber nicht info!
 Screenshot unter ex2_4.png gespeichert!
 
+Logger in calculater klasse hinzugefügt und bei den Methoden, debug logger hinzugefügt.
+log4j2.xml erstellt in main/resources
+mit cp log4j2.xml.template erstellt
+log4j2.xml in gitignore hinzugefügt
+Programm mehrmals ausgeführt für weitere einträge
+screenshot von den log einträgen gemacht und unter ex2_5.png gespeichert
+Alles in README.md verlinkt
 

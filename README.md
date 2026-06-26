@@ -21,10 +21,13 @@ patrick.maze@gmail.com
 - Exercise1 [Part1](exercise1_part1.md)
 - Exercise1 [Part2](exercise1_part2.md)
 - Exercise1 [Part3](exercise1_part3.md) ![ex1_1](./resources/images/ex1_1.png))
-- Exercise2
+- Exercise2 [Part1](exercise2.md) ![ex2_1](./resources/images/ex2_1.png), ![ex2_2](./resources/images/ex2_2.png), ![ex2_3](./resources/images/ex2_3.png), ![ex2_4](./resources/images/ex2_4.png)
 
+
+## Logging-Konfiguration
+Die Datei log4j2.xml.template dient als Vorlage. Vor dem Start muss diese Datei zu log4j2.xml kopiert und bei Bedarf angepasst werden.
 
 ## Echte Informationen zum Autor
 Link zur GitHub [Profilseite](https://github.com/Patrick5435/patrick5435.github.io.git)
 Link zu ihrer [Hochschule](https://www.campus02.at)
-Version 1.1
+Version 1.2

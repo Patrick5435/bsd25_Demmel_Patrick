@@ -1,6 +1,6 @@
 package at.campus02.bsd;
 
-import at.campus02.bsd.Calculator;
+
 import org.apache.logging.log4j.LogManager;
 
 import org.apache.logging.log4j.Logger;

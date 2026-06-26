@@ -15,5 +15,7 @@ public class Main {
         System.out.println("Subtraktion: " + calculator.subtract(number1, number2));
         System.out.println("Division: " + calculator.divide(number1, number2));
         System.out.println("Multiplikation: " + calculator.multiply(number1, number2));
+        
+        System.out.println("Patrick Demmel");
     }
 }
